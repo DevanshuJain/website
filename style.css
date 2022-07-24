@@ -115,3 +115,17 @@ header img {
 .about_me {
     text-align: center;
 }
+
+.footer-main-content{
+    text-align: center;
+    background-color: #111;
+    margin-top: 20%;
+    color: #fff;
+}
+.footer-top{
+    padding-top: 0px;
+}
+
+.footer-social {
+    text-align: center;
+}
